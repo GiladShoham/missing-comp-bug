@@ -1,0 +1,14 @@
+{
+  "name": "missing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

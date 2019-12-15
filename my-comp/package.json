@@ -1,0 +1,7 @@
+{
+  "name": "my-comp",
+  "version": "1.0.0",
+  "dependencies": {
+    "@bit/bit.utils.object.clean": "^1.0.0"
+  }
+}
